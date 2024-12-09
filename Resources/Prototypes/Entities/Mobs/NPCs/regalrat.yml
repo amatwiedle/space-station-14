@@ -275,10 +275,14 @@
       Female: Mouse
       Unsexed: Mouse
     wilhelmProbability: 0.001
+  - type: Item
+    size: Tiny
+    heldPrefix: 0
   - type: Tag
     tags:
       - CannotSuicide
       - FootstepSound
+      - Trash
   - type: NoSlip
   - type: MobPrice
     price: 500 # rat wealth
